@@ -25,7 +25,7 @@
         "thumbnail": "icon.png",
         "titulo": "Cómo dibujar personajes",
         "creador": "Ana",
-        "categoria": "Dibujo"
+        "categoria": "Animación"
     },
     {
         "id": 5,
@@ -40,5 +40,26 @@
         "titulo": "My first animation",
         "creador": "Orlando",
         "categoria": "Animación"
-    }
+    },
+    {
+        "id": 7,
+        "thumbnail": "icon.png",
+        "titulo": "Momentos divertidos en juegos de terror",
+        "creador": "Mariana",
+        "categoria": "Gameplays"
+    },
+    {
+        "id": 8,
+        "thumbnail": "icon.png",
+        "titulo": "Jugando slenderman",
+        "creador": "Fernando",
+        "categoria": "Gameplays"
+    },
+    {
+        "id": 9,
+        "thumbnail": "icon.png",
+        "titulo": "Cómo dibujar manos",
+        "creador": "Ana",
+        "categoria": "Animación"
+    },
 ]
