@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "thumbnail": "icon.png",
+        "titulo": "Mi primer video",
+        "creador": "Juan",
+        "categoria": "General"
+    },
+    {
+        "id": 2,
+        "thumbnail": "icon.png",
+        "titulo": "Tutorial de JavaScript",
+        "creador": "María",
+        "categoria": "Programación"
+    },
+    {
+        "id": 3,
+        "thumbnail": "icon.png",
+        "titulo": "Gameplay de Minecraft",
+        "creador": "Carlos",
+        "categoria": "Gameplays"
+    },
+    {
+        "id": 4,
+        "thumbnail": "icon.png",
+        "titulo": "Cómo dibujar personajes",
+        "creador": "Ana",
+        "categoria": "Dibujo"
+    },
+    {
+        "id": 5,
+        "thumbnail": "icon.png",
+        "titulo": "Music for studying",
+        "creador": "Luis",
+        "categoria": "Música"
+    },
+    {
+        "id": 6,
+        "thumbnail": "icon.png",
+        "titulo": "My first animation",
+        "creador": "Orlando",
+        "categoria": "Animación"
+    }
+]
